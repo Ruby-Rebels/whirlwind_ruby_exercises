@@ -1,5 +1,5 @@
 customer_info = []
-2.times do
+5.times do
   customer = {}
   puts "please enter a first name"
   customer[:first_name] = gets.chomp
